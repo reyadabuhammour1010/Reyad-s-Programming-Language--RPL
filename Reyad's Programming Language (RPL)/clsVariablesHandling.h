@@ -61,7 +61,7 @@ public:
         if (isdigit(Name[0]))
             return false;
 
-        if (Name == "Start" || Name == "End" || Name == "Int" || Name == "Loop" ||
+        if (Name == "End" || Name == "Int" || Name == "Loop" ||
             Name == "to" || Name == "Op" || Name == "Print")
             return false;
 
@@ -164,4 +164,5 @@ public:
 
 
 };
+
 
