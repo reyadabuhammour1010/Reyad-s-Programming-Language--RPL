@@ -46,8 +46,8 @@ Print x
 Print Op x + 8
 Print Op 7 - y
 Print Op x + y
-Int x = 4
-Print x
+Int z = 4
+Print z
 Loop 1 to 5
 End
 ```
