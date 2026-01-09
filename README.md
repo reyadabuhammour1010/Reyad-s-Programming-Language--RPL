@@ -86,15 +86,4 @@ Expected output:
 
 ---
 
-## Contributing
-
-This project is open for learning purposes. Contributions are welcome, especially for:
-
-- Adding new features.
-- Improving error handling.
-- Enhancing language syntax.
-- Fixing bugs or unexpected behavior.
-
----
-
 Thank you for trying **RPL**!  
