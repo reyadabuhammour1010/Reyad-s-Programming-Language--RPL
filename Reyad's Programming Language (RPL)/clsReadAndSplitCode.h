@@ -30,7 +30,7 @@ public :
          cout << "\t\tWelcome To \"Reyad's Programming Language (RPL)\" \n";
          cout << "==============================================================================\n";
          cout << "\nEnter your Code Here : \n";
-         cout << "ATTENTION: This Enviroment is in BETA mode, so, you can Expect Errors!\n\n";
+         cout << "Warning: This is a learning project, so, you can Expect Errors!\n\n";
          cout << "==============================================================================\n";
 
          _Code.clear();
@@ -75,4 +75,5 @@ public :
 
 
 };
+
 
